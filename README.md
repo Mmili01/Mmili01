@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mmili01
-- 👀 I’m interested in artificial intelligence and blockchain developement 
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m Abba Emmanuel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via eabba21@gmail.com
 
