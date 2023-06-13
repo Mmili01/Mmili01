@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abba Emmanuel 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Backend engineering 
 - 📫 You can reach me via eabba21@gmail.com
 
 <!---
